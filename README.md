@@ -390,11 +390,6 @@ Called after a job has been queued using the `Resque::enqueue` method. Arguments
 * Queue - string containing the name of the queue the job was added to
 * ID - string containing the new token of the enqueued job
 
-## Step-By-Step ##
-
-For a more in-depth look at what php-resque does under the hood (without 
-needing to directly examine the code), have a look at `HOWITWORKS.md`.
-
 ## Contributors ##
 
 ### Project Lead ###
